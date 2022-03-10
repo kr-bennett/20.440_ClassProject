@@ -1,7 +1,5 @@
 # 20.440_ClassProject
-## Identifying Potential Biomarkers for Future Ischemic Stroke 
-## Using A Comparative Analysis of Mouse Vasculature and Ischemic 
-## Stroke Risk RNA-seq data 
+## Identifying Potential Biomarkers for Future Ischemic Stroke Using A Comparative Analysis of Mouse Vasculature and Ischemic Stroke Risk RNA-seq data 
 
 ## Overview
 This repository contains code, data, and figures related to the Spring 
