@@ -23,7 +23,7 @@ The following folders and their contents can be found in this repository:
 -   Juptyer Notebooks Code for a preliminary version of a figure needed for PSET 4 (**Bennett_Kimberly_pset4code.ipynb**)
 -   Python Script for a preliminary version of a figure needed for PSET 4 (**Bennett_Kimberly_pset4code.py**)
 ### Figures
--   Preliminary figure of a Heatmap of gene expression of the top 500 genes across 3186 cell samples (generated for PSET4).
+-   Preliminary figure of a Heatmap of gene expression of the top 500 genes across 3186 cell samples (**Heatmap.png**) [*generated for PSET4*]
 
 ## Installation
 Code in this repository was completely written by Kimberly Bennett in Python using the Jupyter Notebooks web-based application and figures were generated with this code. Both python scripts and juptyer notebook files are uploaded for use.
