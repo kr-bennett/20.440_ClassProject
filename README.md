@@ -26,8 +26,8 @@ The following folders and their contents can be found in this repository:
 -   Preliminary figure of a Heatmap of gene expression of the top 500 genes across 3186 cell samples (**Heatmap.png**) [*generated for PSET4*]
 
 ## Installation
-Code in this repository was completely written by Kimberly Bennett in Python using the Jupyter Notebooks web-based application and figures were generated with this code. Both python scripts and juptyer notebook files are uploaded for use.
+Code in this repository was completely written by Kimberly Bennett in Python using the Jupyter Notebooks web-based application for Windows and figures were generated with this code. Both python scripts and juptyer notebook files are uploaded for use.
 
 Download Jupyter Notebooks here: https://jupyter.org/
 
-Download PyCharm (for Python) here: https://www.jetbrains.com/pycharm/download/#section=windows
+Download PyCharm (for Python in Windows) here: https://www.jetbrains.com/pycharm/download/#section=windows
